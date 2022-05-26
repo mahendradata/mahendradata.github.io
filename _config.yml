@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Mahendra Data
-description: Mahendra Data's personal page
+logo: /assets/img/logo.png
+description: Assistant professor at Brawijaya University, Indonesia 
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
