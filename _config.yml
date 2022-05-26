@@ -1,6 +1,17 @@
 title: Mahendra Data
-logo: /assets/img/logo.png
-description: Assistant professor at Brawijaya University, Indonesia 
-show_downloads: true
+affiliation: Researcher and assistant professor at <a href=https://filkom.ub.ac.id/>Brawijaya University</a>, Indonesia
+second_affiliation: Ph.D. student at <a href=https://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/>Aritsugi Laboratory</a>, <a href=https://www.fast.kumamoto-u.ac.jp/gsst-en/>Kumamoto University</a>, Japan
+research_interest: Computer network, Computer security, Machine learning, Incremental learning. 
+contact: mahendra.data [at] ub.ac.id
+show_social: true
+github_url: https://github.com/mahendradata/
+scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57201523190
+ieee_url: https://ieeexplore.ieee.org/author/37086327753
+scholar_url: https://scholar.google.com/citations?user=DRcHGcYAAAAJ&hl=en
+sinta_url: https://sinta3.kemdikbud.go.id/authors/profile/5992995
+dblp_url: https://dblp.uni-trier.de/pid/307/6084.html
+linkedin_url: https://www.linkedin.com/in/mahendra-data/
+is_user_page: true
 google_analytics:
 theme: jekyll-theme-minimal
+logo: /assets/img/logo.png
