@@ -6,7 +6,7 @@ layout: default
 
 ## Office
 
-**Faculty of Computer Science**\
+[Faculty of Computer Science](https://filkom.ub.ac.id/)\
 Veteran No. 8, Malang City, East Java, Indonesia\
 Postal code 65145\
 Phone (+62) 341-577-911\
@@ -15,11 +15,11 @@ Fax (+62) 341-577-911
 ## Educations
 
 - **Bachelor degree**\
-  I was awarded the degree of Bachelor of Computer Science from the [Faculty of Mathematics and Natural Sciences](https://mipa.ub.ac.id/en/home/), [Brawijaya University](https://ub.ac.id/), Malang, Indonesia, in 2010.
+  Awarded the degree of Bachelor of Computer Science from the [Faculty of Mathematics and Natural Sciences](https://mipa.ub.ac.id/en/home/), [Brawijaya University](https://ub.ac.id/), Malang, Indonesia, in 2010.
 - **Master degree**\
-  I was awarded the degree of Master of Computer Science from the [Faculty of Information Technology](https://www.its.ac.id/informatika/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/), Surabaya, Indonesia, in 2014.
+  Awarded the degree of Master of Computer Science from the [Faculty of Information Technology](https://www.its.ac.id/informatika/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/), Surabaya, Indonesia, in 2014.
 - **Doctoral degree**\
-  I have been a Ph.D. student at the [Aritsugi Laboratory](https://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/), [Graduate School of Science and Technology](https://www.fast.kumamoto-u.ac.jp/gsst-en/), [Kumamoto University](https://ewww.kumamoto-u.ac.jp/en/), Kumamoto, Japan, since 2019.
+  A Ph.D. student at the [Aritsugi Laboratory](https://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/), [Graduate School of Science and Technology](https://www.fast.kumamoto-u.ac.jp/gsst-en/), [Kumamoto University](https://ewww.kumamoto-u.ac.jp/en/), Kumamoto, Japan, since 2019.
 
 ## Featured Publications
 
@@ -39,11 +39,20 @@ Fax (+62) 341-577-911
 ## Employment
 
 - **February 2015 - present**\
-  Assistant Professor at Faculty of Computer Science, Brawijaya University
+  Assistant Professor at [Faculty of Computer Science](https://filkom.ub.ac.id/), [Brawijaya University](https://ub.ac.id/)
 - **January 2017 - present**\
-  System Administrator at Algostudio
+  System Administrator at [Algostudio](https://algostudio.net/), Indonesia
 - **January 2015 - December 2016**\
-  System Administrator at Dicoding
+  System Administrator at [Dicoding](https://www.dicoding.com/), Indonesia
 - **February 2011 - February 2015**\
-  Lecturer at Faculty of Engineering, Brawijaya University
+  Lecturer at [Faculty of Computer Engineering](https://teknik.ub.ac.id/?lang=en), [Brawijaya University](https://ub.ac.id/)
   
+## Internship
+
+- **January 2009 - April 2009**\
+  Intern in the 11th [AI3 & SOI Asia](https://www.soi.asia/) project internship program at [Keio University Shonan Fujisawa Campus](https://www.sfc.keio.ac.jp/en/).
+
+## Volunteer
+
+- **January 2008 - April 2012**\
+  Online class operator at [SOI Asia Project](https://www.soi.asia/).
