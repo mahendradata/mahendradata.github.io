@@ -22,36 +22,29 @@
         {% endif %}
         
         {% if site.affiliation %}
-        <h3>Affiliation</h3>
         <p>{{ site.affiliation }}</p>
-        {% if site.affiliation %}
+        {% endif %}
+        {% if site.second_affiliation %}
         <p>{{ site.second_affiliation }}</p>
-        {% endif %}
-        {% endif %}
-
-        {% if site.research_interest %}
-        <h3>Research Interest</h3>
-        <p>{{ site.research_interest }}</p>
         {% endif %}
 
         {% if site.contact %}
-        <h3>Contact</h3>
-        <p>{{ site.contact }}</p>
+        <p><strong>Contact:</strong><br><i>{{ site.contact }}</i></p>
         {% endif %}
 
         {% if site.show_profiles %}
-        <h3>Profiles</h3>
-        <ul>
-          <li><a href="{{ site.github_url }}" target="_blank">Github</a></li>
-          <li><a href="{{ site.scopus_url }}" target="_blank">Scopus</a></li>
-          <li><a href="{{ site.scholar_url }}" target="_blank">Google Scholar</a></li>
-          <li><a href="{{ site.ieee_url }}" target="_blank">IEEE</a></li>
-          <li><a href="{{ site.sinta_url }}" target="_blank">Sinta</a></li>
-          <li><a href="{{ site.dblp_url }}" target="_blank">DBLP</a></li>
-          <li><a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a></li>
-          <li><a href="{{ site.researchgate_url }}" target="_blank">Research Gate</a></li>
-        </ul>
+        <p><strong>Profiles:</strong><br>
+        <a href="{{ site.github_url }}" target="_blank">Github</a>,
+        <a href="{{ site.scopus_url }}" target="_blank">Scopus</a>,
+        <a href="{{ site.scholar_url }}" target="_blank">Google Scholar</a>,
+        <a href="{{ site.ieee_url }}" target="_blank">IEEE</a>,
+        <a href="{{ site.sinta_url }}" target="_blank">Sinta</a>,
+        <a href="{{ site.dblp_url }}" target="_blank">DBLP</a>,
+        <a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a>,
+        <a href="{{ site.researchgate_url }}" target="_blank">Research Gate</a>
+        </p>
         {% endif %}
+
       </header>
       <section>
 

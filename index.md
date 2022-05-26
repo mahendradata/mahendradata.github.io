@@ -21,6 +21,11 @@ Fax (+62) 341-577-911
 - **Doctoral degree**\
   A Ph.D. student at the [Aritsugi Laboratory](https://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/), [Graduate School of Science and Technology](https://www.fast.kumamoto-u.ac.jp/gsst-en/), [Kumamoto University](https://ewww.kumamoto-u.ac.jp/en/), Kumamoto, Japan, since 2019.
 
+## Research Interest
+
+*Computer network, Computer security, Machine learning, Incremental learning.* 
+
+
 ## Featured Publications
 
 - [T-DFNN: An Incremental Learning Algorithm for Intrusion Detection Systems](https://doi.org/10.1109/ACCESS.2021.3127985)\
