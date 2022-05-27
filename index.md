@@ -50,7 +50,7 @@ Fax (+62) 341-577-911
 - **January 2015 - December 2016**\
   System Administrator at [Dicoding](https://www.dicoding.com/), Indonesia
 - **February 2011 - February 2015**\
-  Lecturer at [Faculty of Computer Engineering](https://teknik.ub.ac.id/?lang=en), [Brawijaya University](https://ub.ac.id/)
+  Lecturer at [Faculty of Engineering](https://teknik.ub.ac.id/?lang=en), [Brawijaya University](https://ub.ac.id/)
   
 ## Internship
 
