@@ -19,7 +19,7 @@ Fax (+62) 341-577-911
 - **Master degree**\
   Awarded the degree of Master of Computer Science from the [Faculty of Information Technology](https://www.its.ac.id/informatika/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/), Surabaya, Indonesia, in 2014.
 - **Doctoral degree**\
-  A Ph.D. student at the [Aritsugi Laboratory](https://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/), [Graduate School of Science and Technology](https://www.fast.kumamoto-u.ac.jp/gsst-en/), [Kumamoto University](https://ewww.kumamoto-u.ac.jp/en/), Kumamoto, Japan, since 2019.
+  Awarded the degree of Doctor of Philosophy from the [Graduate School of Science and Technology](https://www.fast.kumamoto-u.ac.jp/gsst-en/), [Kumamoto University](https://ewww.kumamoto-u.ac.jp/en/), Kumamoto, Japan, in 2022.
 
 ## Research Interest
 
@@ -28,16 +28,14 @@ Fax (+62) 341-577-911
 
 ## Featured Publications
 
+- [An incremental learning algorithm on imbalanced data for network intrusion detection systems](https://doi.org/10.1145/3556223.3556252)\
+  *Mahendra Data*, Masayoshi Aritsugi. (2022). the 10th International Conference on Computer and Communications Management (ICCCM 2022)
+- [AB-HT: An Ensemble Incremental Learning Algorithm for Network Intrusion Detection Systems](https://doi.org/10.1109/ICoDSA55874.2022.9862833)\
+  *Mahendra Data*, Masayoshi Aritsugi. (2022). 2022 International Conference on Data Science and Its Applications (ICoDSA)
 - [T-DFNN: An Incremental Learning Algorithm for Intrusion Detection Systems](https://doi.org/10.1109/ACCESS.2021.3127985)\
   *Mahendra Data*, Masayoshi Aritsugi. (2021). IEEE Access
-- [The Design of High Availability Dynamic Web Server Cluster](https://doi.org/10.1109/SIET48054.2019.8986069)\
-  *Mahendra Data*, Dany Primanita Kartikasari, Adhitya Bhawiyuga. (2019). 2019 International Conference on Sustainable Information Engineering and Technology (SIET)
 - [The defense against ARP spoofing attack using semi-static ARP cache table](https://doi.org/10.1109/SIET.2018.8693155)\
   *Mahendra Data*. (2018). 2018 International conference on sustainable information engineering and technology (SIET)
-- [Optimizing single low-end LAMP server using NGINX reverse proxy caching](https://doi.org/10.1109/SIET.2017.8304102)\
-  *Mahendra Data*, Muhammad Luthfi, Widhi Yahya. (2017). 2017 International Conference on Sustainable Information Engineering and Technology (SIET)
-- [Architectural design of token based authentication of MQTT protocol in constrained IoT device](https://doi.org/10.1109/TSSA.2017.8272933)\
-  Adhitya Bhawiyuga, *Mahendra Data*, Andri Warda. (2017). 2017 11th International Conference on Telecommunication Systems Services and Applications (TSSA)
 
 [See the rest of my publications](https://scholar.google.com/citations?user=DRcHGcYAAAAJ&hl=en).
 
